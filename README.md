@@ -25,10 +25,10 @@ I like problems that sit at the intersection of math, software, and people. I’
 | Project | Description |
 |--------|-------------|
 | [**CoolGoat**](https://github.com/UladzimirTreihis/CoolGoat) | Full-stack football / bonds platform with payments and AWS deployment. Team project; I focused heavily on backend, database design, and infrastructure. [Demo](https://web.coolgoat4444.me/) |
-| [**LineDB**](https://linedb.nfshost.com/home) | Flask application for astrophysical line detections — authentication, validation, and careful data handling. [Repo](https://github.com/UladzimirTreihis/spectral_line_detection_database) |
+| [**Walacugi**](https://walacugi.org/) | Tourism site for news and events (React, Express, MUI) |
 | [**Get Quiz AI**](https://getquiz.ai/features) | Pipeline from study materials to quizzes, including media / automation pieces |
+| [**LineDB**](https://linedb.nfshost.com/home) | Flask application for astrophysical line detections — authentication, validation, and careful data handling. [Repo](https://github.com/UladzimirTreihis/spectral_line_detection_database) |
 | [**ldr_bot**](https://github.com/UladzimirTreihis/ldr_bot) | Telegram bot: event countdowns plus RAG with FAISS for contextual replies |
-| [**Walacugi**](https://walacugi.org/) | Tourism site for news and events (React, Express, MUI) — ongoing |
 
 More work and experiments: [repositories](https://github.com/UladzimirTreihis?tab=repositories).
 
